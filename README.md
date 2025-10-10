@@ -1,6 +1,8 @@
 <h1>Welcome</h1>
-My name is andrew and this is my github page.
+Hi, welcome to my github page!
 
-Here, you can find some projects I have worked on in the past.
-</hr>
+Make sure to check out my <a href="https://atacoi.github.io">website!</a>
+<br/>
+And my many projects...
+<br/>
 Thanks for stopping by!
